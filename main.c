@@ -48,12 +48,17 @@ int main(int argc, char **argv) {
            "1 de mayo de 2024\n"
            "Asesor Juan Manuel Martinez Fernandez\n"
            "Alumno Jose Luis Pacheco Mendoza\n\n");
-    printf("Programa para generar una sucesion numerica con la formula"
+    printf("Programa para generar una sucesion numerica con la expresion"
            " [n(n+1)(2n+1)]/6.\n\n");
 
     // Número de elementos en la serie.
     int n = atoi(argv[1]);
-
+    if(n<=0){
+        printf("n = %d \n", n);
+        printf("El programa solamente acepta enteros positivos.\n");
+        return 0;
+    }
+    // Impresión en pantalla de los elementos de la serie.
     printf("n = %d \nSalida = ", n);
     for (int i = 1; i <= n; ++i) {
         printf("%d ", getserie(i));
