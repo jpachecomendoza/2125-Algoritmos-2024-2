@@ -32,3 +32,4 @@
     Salida = 1 5 14 30 55
     ```
 + [Unidad 6 Actividad 2](https://github.com/jpachecomendoza/2125-Algoritmos-2024-2/blob/Unidad-6-Actividad-2/main.c)
++ [Unidad 6 Actividad 3](https://github.com/jpachecomendoza/2125-Algoritmos-2024-2/blob/Unidad-6-Actividad-3/main.c)
