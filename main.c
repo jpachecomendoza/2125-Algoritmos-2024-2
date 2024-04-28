@@ -12,7 +12,7 @@
  * */
 
 /*
- * Unidad 6 Actividad 3
+ * Unidad 6 Actividad Complementaria 1
  *
  * A partir del estudio de la unidad, elabora un programa que permita
  * a un cliente seleccionar 4 paquetes de comida rápida de tu elección.
