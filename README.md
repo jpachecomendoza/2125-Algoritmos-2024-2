@@ -33,3 +33,5 @@
     ```
 + [Unidad 6 Actividad 2](https://github.com/jpachecomendoza/2125-Algoritmos-2024-2/blob/Unidad-6-Actividad-2/main.c)
 + [Unidad 6 Actividad 3](https://github.com/jpachecomendoza/2125-Algoritmos-2024-2/blob/Unidad-6-Actividad-3/main.c)
++ [Unidad 6 Actividad Complementaria 1](https://github.com/jpachecomendoza/2125-Algoritmos-2024-2/blob/Unidad-6-Actividad-Complementaria-1/main.c)
++ [Unidad 6 Actividad Complementaria 2](https://github.com/jpachecomendoza/2125-Algoritmos-2024-2/blob/Unidad-6-Actividad-Complementaria-2/main.c)
